@@ -1,2 +1,2 @@
 # Sharpe-Ratio
-Using Python to analyse Sharpe Ratios for to stocks and determine the stock ith higher returns
+Using Python to analyse Sharpe Ratios for two stocks and determine the stock with higher returns
